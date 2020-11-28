@@ -11,7 +11,8 @@
 * [[실전 React.js] Part3. 리스트 구성하기](https://medium.com/hivelab-dev/react-js-tutorial-part2-c1be2c6dca79)
 
 
-### VELOPERT ###
+### by velopert ###
+
 * [누구든지 하는 리액트](https://velopert.com/3613)
 
 * [리액트 기초 입문 프로젝트](https://velopert.com/3480)
