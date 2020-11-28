@@ -1,8 +1,9 @@
 # Frontend Study
 
-1. Javascript
-https://developer.mozilla.org/ko/docs/A_re-introduction_to_JavaScript
-자바스크립트 튜러리얼 - MDN web docs
+##Javascript##
+
+* [자바스크립트 튜터리얼 MDN](https://developer.mozilla.org/ko/docs/A_re-introduction_to_JavaScript)
+
 
 ### React ###
 * [[실전 React.js] Part1. 개념 이해하기](https://medium.com/hivelab-dev/react-js-tutorial-part1-c632e34fc32)
