@@ -1,6 +1,6 @@
 # Frontend Study
 
-##Javascript##
+## Javascript ##
 
 * [자바스크립트 튜터리얼 MDN](https://developer.mozilla.org/ko/docs/A_re-introduction_to_JavaScript)
 
