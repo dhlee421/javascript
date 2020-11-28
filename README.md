@@ -5,12 +5,9 @@ https://developer.mozilla.org/ko/docs/A_re-introduction_to_JavaScript
 자바스크립트 튜러리얼 - MDN web docs
 
 ### React ###
-[실전 React.js] Part1. 개념 이해하기
-https://medium.com/hivelab-dev/react-js-tutorial-part1-c632e34fc32
-[실전 React.js] Part2. 프로젝트 시작하기
-https://medium.com/hivelab-dev/react-js-tutorial-part2-c1be2c6dca79
-[실전 React.js] Part3. 리스트 구성하기
-https://medium.com/hivelab-dev/react-js-tutorial-part2-c1be2c6dca79
+[[실전 React.js] Part1. 개념 이해하기](https://medium.com/hivelab-dev/react-js-tutorial-part1-c632e34fc32)
+[[실전 React.js] Part2. 프로젝트 시작하기](https://medium.com/hivelab-dev/react-js-tutorial-part2-c1be2c6dca79)
+[[실전 React.js] Part3. 리스트 구성하기(https://medium.com/hivelab-dev/react-js-tutorial-part2-c1be2c6dca79)
 
 
 누구든지 하는 리액트
